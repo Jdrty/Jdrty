@@ -1,6 +1,5 @@
 ## Hi there 👋
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdrty&layout=compact&hide=html,css&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jdrty&layout=compact&langs_count=6&hide=html,css&theme=dark)
 <!--
 **Jdrty/Jdrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
