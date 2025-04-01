@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Jdrty's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jdrty)](https://github.com/Jdrty/github-readme-stats)
 
 <!--
 **Jdrty/Jdrty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
